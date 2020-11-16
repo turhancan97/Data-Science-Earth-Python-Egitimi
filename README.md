@@ -6,3 +6,4 @@ Data Science Earth websitesinde verilen Python eğitimlerinin kodlarını burada
 3. Python: Bölüm 3 – Operatörler ve Koşul İfadeleri
 4. Python: Bölüm 4 – Döngüler
 5. Python: Bölüm 5 – Fonksiyonlar
+6. Uygulama 1 - Bu notebookta şimdiye kadar öğrendiklerimizi pekiştirmek için örnekler yapılmıştır. (Fibonacci Serisi ve Collatz Dizisi)
