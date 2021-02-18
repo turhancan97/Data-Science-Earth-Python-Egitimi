@@ -9,3 +9,4 @@ Data Science Earth websitesinde verilen Python eğitimlerinin kodlarını burada
 6. Uygulama 1 - Bu notebookta şimdiye kadar öğrendiklerimizi pekiştirmek için örnekler yapılmıştır. (Fibonacci Serisi ve Collatz Dizisi)
 7. Python: Bölüm 6 – Modüller
 8. Python: Bölüm 7 – Veri Yapıları
+9. Python: Bölüm 8 – Liste Veri Yapısı
