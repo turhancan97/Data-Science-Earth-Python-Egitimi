@@ -10,3 +10,4 @@ Data Science Earth websitesinde verilen Python eğitimlerinin kodlarını burada
 7. Python: Bölüm 6 – Modüller
 8. Python: Bölüm 7 – Veri Yapıları
 9. Python: Bölüm 8 – Liste Veri Yapısı
+10. Python: Bölüm 9 – Tuple (Demet) Veri Yapıları
